@@ -19,7 +19,7 @@ This repository contains a Python script designed to send HTML template emails t
 3. Customize the email subject, body text, and HTML template as needed.
 4. Run the script to send the email.
 
-```bash
+
 
 
 ![email-template](https://github.com/user-attachments/assets/1d73729f-9499-473e-9dd7-76e83d6e2740)
