@@ -20,6 +20,6 @@ This repository contains a Python script designed to send HTML template emails t
 4. Run the script to send the email.
 
 ```bash
-python main.py
 
-https://github.com/user-attachments/assets/1d73729f-9499-473e-9dd7-76e83d6e2740
+
+![email-template](https://github.com/user-attachments/assets/1d73729f-9499-473e-9dd7-76e83d6e2740)
