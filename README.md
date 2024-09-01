@@ -22,4 +22,4 @@ This repository contains a Python script designed to send HTML template emails t
 ```bash
 python main.py
 
-![email-template](https://github.com/user-attachments/assets/1d73729f-9499-473e-9dd7-76e83d6e2740)
+https://github.com/user-attachments/assets/1d73729f-9499-473e-9dd7-76e83d6e2740
